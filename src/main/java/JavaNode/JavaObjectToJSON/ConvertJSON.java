@@ -1,4 +1,4 @@
-package JavaTpoint.JavaObjectToJSON;  
+package JavaNode.JavaObjectToJSON;  
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

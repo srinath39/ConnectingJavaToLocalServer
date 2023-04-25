@@ -1,4 +1,4 @@
-package JavaTpoint.JavaObjectToJSON;  
+package JavaNode.JavaObjectToJSON;  
 //Creating MobilePhone class  
 public class MobilePhone {  
     //Creating properties of the class  
